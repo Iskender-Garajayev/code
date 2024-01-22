@@ -873,6 +873,8 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"] {
     }
 }
 
+
+
 .page_main {
     padding: 60px 0;
     background: url(../img/placeholder.jpg) center/cover no-repeat;
