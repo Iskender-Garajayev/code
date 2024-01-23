@@ -180,4 +180,8 @@
   height: 370px;
   border-radius: 10px;
 }
+
+.page_main {
+  background: transparent !important;
+}
 /*# sourceMappingURL=../sourcemaps/icomoon.css.map */
